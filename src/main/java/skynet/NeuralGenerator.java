@@ -464,9 +464,8 @@ public class NeuralGenerator {
 //Eliminate extra space
 					str = str.trim();
 //Comments start with %, and are not considered valid
-					if (str.charAt(0) != 
-						’%’){
-validLine = str;
+					if ( str.charAt(0)!= '%'){
+                                                validLine = str;
 						isValid = true;
 					}
 				}
