@@ -1,0 +1,18 @@
+saikat-pc@saikatpc-Lenovo-G50-45 /home/saikat-pc/Workstation/TrainingSet
+false
+2
+1
+1
+(0,true,2)
+(true)
+0
+output1
+2
+output2
+0.01
+10000
+0
+0.7
+0
+
+
